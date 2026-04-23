@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evilpf
-- 👀 I’m interested in Cyber Security and Networking!
-- 🌱 I’m currently learning C, docker, and networking.
+- 👀 I’m interested in Cryptography and Networking!
+- 🌱 I’m currently learning Go, and Ansible
 
 <!---
 Evilpf/Evilpf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
